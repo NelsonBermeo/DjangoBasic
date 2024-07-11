@@ -1,0 +1,7 @@
+1. Users can confirm their email
+2. How can I make it so I can't see who signs up? 
+3. The website will be just a bunch of posts from anonymous or named users looking for someone with similar interest, each post will have a title, subtitle and paragraph
+4. First let's think about not being anonymous and then we can think about the harder anonymous part, lets just connect people right now
+5. Someone would have their post and they could have a profile and another user would click on their post and then there would be a button to message the user 
+
+6. Okay simple: have account, make post, be able to message 
