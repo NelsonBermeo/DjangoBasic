@@ -3,7 +3,7 @@ from django.contrib.auth.models import User
 
 class Note(models.Model):
     title = models.CharField(max_length=100)
-    context = models.TextField()
+    content = models.TextField()
     created_at = models.DateTimeField(auto_now_add = True) #automatically populate note
     author = models.ForeignKey(User, on_delete=models.CASCADE, related_name="notes") #who made this note? We can use this as a foreign key
     def __str__(self):
